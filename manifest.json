@@ -1,0 +1,20 @@
+{
+  "name": "Cuaderno EF",
+  "short_name": "Cuaderno EF",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "icono_ef_evaluacion_circulo_azul.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icono_ef_evaluacion_circulo_azul.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
